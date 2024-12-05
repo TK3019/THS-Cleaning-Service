@@ -1,0 +1,75 @@
+img.pagelayer-img.pagelayer-wp-title-img {
+    width: 124px;
+    height: 82px;
+}
+.p-o303146{
+    background-color: #eaeff9;
+}
+.home-section {
+    background: linear-gradient(0deg, rgb(65 112 112), rgb(251 251 251 / 0%)), url('clean.jpg') center / cover no-repeat;
+    padding: 122px;
+   
+}
+.main-head h1 {
+    font-size: 2.3rem !important;
+    line-height: 1.3 !important;
+    color: #000000 !important;
+}
+p.text-black.pb-3 {
+    font-size: 1.2rem;
+    color: black;
+    text-align: center;
+}
+bg-\[\#eef9f9\] {
+    --tw-bg-opacity: 1;
+    background: linear-gradient(116deg, #16615f -29%, #d5ebe6 50%, #16615f 124%);
+}
+.text-\[\#19aea7\] {
+    --tw-text-opacity: 1;
+    color: rgb(23 103 101 / var(--tw-text-opacity));
+}
+@media (min-width: 1024px) {
+    .lg\:grid-cols-3 {
+        grid-template-columns: repeat(3, minmax(0, 1fr));
+    }
+}
+.grid {
+    display: grid
+;
+}
+.card {
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+.card:hover{
+    background-color: #9baed5 !important;
+}
+.text-center {
+    text-align: center;
+}
+.bg-\[\#eef9f9\] {
+    padding: 31px;
+}
+.text-black{
+    color:#000000 !important;
+}
+.before-footer{
+    background: linear-gradient(0deg, rgb(89 93 93), rgb(251 251 251 / 0%)), url('bg-clean.jpg') center / cover no-repeat;;
+}
+.img_above{
+    background-color: #304775;
+}
+.pagelayer-nav-menu-title{
+    color: #304775 !important;
+}
+.text-about{
+    color: #304775 !important;
+} 
+@media screen and (max-width:768px) {
+    .home-section{
+        padding: 0;
+    }
+    
+}
